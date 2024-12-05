@@ -1,0 +1,2 @@
+- Needs python 3.10 or higher
+- Needs List library (already changed)
